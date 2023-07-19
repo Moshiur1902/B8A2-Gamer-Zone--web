@@ -150,7 +150,7 @@ ul{
 
    .banner-goat-text2{
 
-    padding: 148px 244px;
+    padding: 148px 44px;
     fill: linear-gradient(223deg, rgba(140, 87, 238, 0.03) 0%, rgba(241, 68, 174, 0.03) 100%);
     text-align: right; 
     
@@ -166,7 +166,7 @@ ul{
     font-weight: 700;
   }
   .banner-goat-text2 .text-banner{
-    padding: 0px 20px 0px 100px;
+    padding: 0px 20px 0px 50px;
   }
 
   /* header banner finish */
@@ -337,7 +337,7 @@ ul{
     color: #0b0223;
     font-size: 48px;
     font-weight: 700;
-    margin: 10px 0px 0px 400px ;
+    margin: 10px 0px 0px 50px ;
 }
 .text-style3{
     text-align: right;
@@ -353,11 +353,11 @@ ul{
    }
 
    .text-banner3{
-    margin: 10px 0px 0px 400px ;
+    margin: 10px 10px 0px 100px ;
    }
    .game-img-container3{
     position: relative;
-    padding:  80px 200px 0px 350px ;
+    padding:  80px 200px 0px 50px ;
 
 
 }
