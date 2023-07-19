@@ -47,12 +47,79 @@ ul{
     font-weight: 600;
     font-size: 1rem;
 }
-
-i {
-    color: red;
-    
-   
-
+.btn img{
+    width: px;
 }
+
 .titel-home img{
-    width: 15px;}
+    width: 30px;}
+    
+       
+
+   /* button styles  */
+   
+   button{
+    align-items: center;
+    margin: 10px 15px ;
+   }
+   .btn-pry{
+    padding: 21px 40px;
+    color: #fff;
+    background: #ff42a5;
+    border-radius: 48px;
+    border: none;
+
+   }
+   .btn-sky{
+    padding: 21px 40px;
+    color: #fff;
+    background: #4ec5f7;
+    border-radius: 48px;
+    border: none;
+
+   }
+   /* bannar section */
+
+   .gameing-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+   }
+   .banner-goat-text{
+    padding: 148px 244px;
+    fill: linear-gradient(223deg, rgba(140, 87, 238, 0.03) 0%, rgba(241, 68, 174, 0.03) 100%); 
+
+   }
+   .play-like{
+    color: #0b0223;
+    text-align: center;
+    font-size: 48px;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin: 0%;
+   }
+   .text-style{
+    text-align: center;
+    font-size: 95px;
+    font-weight: 800;
+    margin: 0px;
+    text-transform: uppercase;
+    background: linear-gradient(180deg, #f948b2 0%, #8758f1 100%);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+   }
+   section li{
+    list-style: none;
+    
+    margin:0%;
+    color: #534c64;
+    font-size: 20px;
+    margin: 10px 0px;
+    align-items: center;
+   }
+   .game-img-container{
+    padding:  0px 200px;
+   
+    
+   }
+
